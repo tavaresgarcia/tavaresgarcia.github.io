@@ -11,8 +11,11 @@ permalink: /assets/minima-social-icons.svg
 {% for entry in site.minima.social_links %}
   {%- assign symbol_id = entry.platform -%}
   {%- unless symbol_id == "rss" -%}
-    {%- include svg_symbol.html key = symbol_id -%}
+    {%- unless symbol_id == "google_scholar" -%}
+      {%- include svg_symbol.html key = symbol_id -%}
+    {% endunless %}
   {% endunless %}
 {%- endfor -%}
   {%- include svg_symbol.html key = "rss" -%}
+  {%- include svg_symbol.html key = "google_scholar" -%}
 </svg>
