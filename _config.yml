@@ -45,7 +45,6 @@ minima:
      # - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
     - platform: google-scholar  # same as SVG filename.
       user_url: "https://scholar.google.com.au/citations?user=WlVwmIcAAAAJ"  # URL of profile page.
-      title:  My profile at DeviantArt.com  # Optional. Text displayed on hovering over link.
       
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
