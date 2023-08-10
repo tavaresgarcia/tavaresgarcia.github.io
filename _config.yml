@@ -28,9 +28,6 @@ minima:
   # Generate social links in footer.
   #
   social_links:
-    -  platform: google-scholar,    
-       user_url: "https://scholar.google.com.au/citations?user=WlVwmIcAAAAJ"
-       title:  My profile at DeviantArt.com  # Optional. Text displayed on hovering over link.
      # - { platform: devto,          user_url: "https://dev.to/jekyll" }
      # - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
      # - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
