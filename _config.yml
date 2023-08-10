@@ -10,6 +10,8 @@ description: >
 
 # Build settings
 
+google_analytics: G-F2VM2LLM69
+
 theme: minima
 
 plugins:
@@ -17,7 +19,6 @@ plugins:
   - jekyll-seo-tag
 
 # Theme-specific settings
-
 minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
