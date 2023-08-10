@@ -43,7 +43,6 @@ minima:
      # - { platform: telegram,       user_url: "https://t.me/jekyll" }
      # - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
      # - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-
     - platform: google-scholar  # same as SVG filename.
       user_url: "https://scholar.google.com.au/citations?user=WlVwmIcAAAAJ"  # URL of profile page.
       title:  Google Scholar  # Optional. Text displayed on hovering over link.
