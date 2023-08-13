@@ -1,14 +1,20 @@
 <ul class="social-media-list">
-  <li>{% assign entry = include.item %}
+  <li>
     <a href="https://scholar.google.com.au/citations?user=WlVwmIcAAAAJ" target="_blank" title="Google Scholar">
-      <img alt="ORCID" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/16px-Google_Scholar_logo.svg.png" width="16" height="16" />
+      <img alt="Google_Scholar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/16px-Google_Scholar_logo.svg.png" width="16" height="16" />
     </a>
   </li>
-  <li>{% assign entry = include.item %}
+  <li>
     <a href="https://orcid.org/0000-0001-5187-3432" target="_blank" title="ORCID">
       <img alt="ORCID" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
     </a>
   </li>
+  <li>
+    <a href="https://github.com/tavaresgarcia" target="_blank" title="Github">
+      <img alt="Github" src="_includes/social-icons/github.svg" width="16" height="16" />
+    </a>
+  </li>
+  _includes/social-icons/github.svg
   {%- for entry in site.minima.social_links -%}
     {%- include social-item.html item = entry -%}
   {%- endfor -%}
