@@ -1,17 +1,16 @@
 <ul class="social-media-list">
-{%- for entry in site.minima.social_links -%}
-  {%- include social-item.html item = entry -%}
-{%- endfor -%}
-<!--   <li>
-    <a rel="me" href="https://scholar.google.com.au/citations?user=WlVwmIcAAAAJ" target="_blank" title="google-scholar">
-      <svg class="svg-icon grey">
-        <use xlink:href="https://jekyll.github.io/minima/assets/minima-social-icons.svg#google_scholar"></use>
-      </svg>
+  <li>{% assign entry = include.item %}
+    <a href="https://scholar.google.com.au/citations?user=WlVwmIcAAAAJ" target="_blank" title="Google Scholar">
+      <img alt="ORCID" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/16px-Google_Scholar_logo.svg.png" width="16" height="16" />
     </a>
-  </li> -->
+  </li>
   <li>{% assign entry = include.item %}
     <a href="https://orcid.org/0000-0001-5187-3432" target="_blank" title="ORCID">
       <img alt="ORCID" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
     </a>
   </li>
+  {%- for entry in site.minima.social_links -%}
+    {%- include social-item.html item = entry -%}
+  {%- endfor -%}
+
 </ul>
