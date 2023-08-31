@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I am currently a teaching assistant in the [School of Economics](https://economics.uq.edu.au/) at [The University of Queensland](https://www.uq.edu.au/).
+I am currently an academic tutor (teaching assistant in the US) in the [School of Economics](https://economics.uq.edu.au/) at [The University of Queensland](https://www.uq.edu.au/).
 
 ### Teaching Assistantships
 
