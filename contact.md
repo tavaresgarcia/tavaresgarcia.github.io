@@ -7,7 +7,7 @@ permalink: /contact/
 ### Email
 [f.tavaresgarcia@uq.edu.au](mailto:f.tavaresgarcia@uq.edu.au)
 
-### The School of Economics
+### School of Economics
 
 Level 6, Colin Clark Building (#39)
 
