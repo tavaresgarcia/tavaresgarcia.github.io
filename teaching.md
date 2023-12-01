@@ -25,7 +25,7 @@ The course aims to offer advanced finance and economics students an understandin
 <small><a href="#/" onclick="visib('econ2300')">Student feedback</a> &bull; <a href="#/" onclick="visib('econ2300des')">Course description</a> &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON2300){:target="_blank"} </small>
 
 <div id="econ2300" style="display: none; text-align: justify"><small>
-<a href="https://drive.google.com/file/d/1ERU1ecEANj9gOoM3Vi2F9HgC_qNRhSMr/view?usp=sharing" target="_blank">2022 sem1</a> &bull; <a href="https://drive.google.com/file/d/13K_R4wvciqoFEoYVlxiNDahf9kXnfFAw/view?usp=sharing" target="_blank">2022 sem2</a> &bull; <a href="https://drive.google.com/file/d/1NHoV1b-cu38025E5Br4aWiTs8zHiY7DF/view?usp=sharing" target="_blank">2023 sem1</a> &bull; 2023 sem2
+<a href="https://drive.google.com/file/d/1ERU1ecEANj9gOoM3Vi2F9HgC_qNRhSMr/view?usp=sharing" target="_blank">2022 sem1</a> &bull; <a href="https://drive.google.com/file/d/13K_R4wvciqoFEoYVlxiNDahf9kXnfFAw/view?usp=sharing" target="_blank">2022 sem2</a> &bull; <a href="https://drive.google.com/file/d/1NHoV1b-cu38025E5Br4aWiTs8zHiY7DF/view?usp=sharing" target="_blank">2023 sem1</a> &bull; <a href="https://drive.google.com/file/d/185lxbhtXBxamXkks4CGkwv0n4PxG7Zry/view?usp=sharing" target="_blank">2023 sem2</a>
 </small></div>
 
 <div id="econ2300des" style="display: none; text-align: justify; line-height: 1.1"><small>
@@ -37,7 +37,7 @@ Introductory applied econometric course for students with essential economic sta
 <small><a href="#/" onclick="visib('econ2030')">Student feedback</a> &bull; <a href="#/" onclick="visib('econ2030des')">Course description</a> &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON2030){:target="_blank"} </small>
 
 <div id="econ2030" style="display: none; text-align: justify"><small>
-2023 sem2
+<a href="https://drive.google.com/file/d/188aIujMgIPehZcPsB64oy1QxWwwWqw6s/view?usp=sharing" target="_blank">2023 sem2</a>
 </small></div>
 
 <div id="econ2030des" style="display: none; text-align: justify; line-height: 1.1"><small>
