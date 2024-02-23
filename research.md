@@ -7,7 +7,7 @@ permalink: /research/
 ##  Peer-reviewed journal articles
 
 
-**The Impact of Monetary Policy on Income Inequality: Does Inflation Targeting Matter?** (with [Jamie Cross](https://jamiecross.com.au/){:target="_blank"}). *Finance Research Letters*, 2024.
+**The Impact of Monetary Policy on Income Inequality: Does Inflation Targeting Matter?** (with [Jamie Cross](https://jamiecross.com.au/){:target="_blank"}). *Finance Research Letters*, 2024, 61, 105006.
 
 <small><a href="#/" onclick="visib('inflation')">Abstract</a> &bull; [Published Version](https://doi.org/10.1016/j.frl.2024.105006){:target="_blank"} &bull; [Working Paper](https://drive.google.com/file/d/1c_HjmrjTVkpLrtwF3r4N_23EdxTgejql/view?usp=sharing){:target="_blank"} &bull; [Online Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S1544612324000369-mmc1.pdf){:target="_blank"} &bull; [Replication files](https://drive.google.com/file/d/1-tuP_vwjLhKLWsD1cOdSuL3x7mCkoMIU/view?usp=sharing){:target="_blank"} &bull; [Dataset only](https://docs.google.com/spreadsheets/d/1PzurYWtq6QZwF3tiTzr2_cKPXQbx2lti/edit?usp=sharing&ouid=113994283449240552751&rtpof=true&sd=true){:target="_blank"} </small>
 
