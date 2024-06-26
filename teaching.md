@@ -13,7 +13,7 @@ I am currently an academic tutor (teaching assistant in the US) in the [School o
 <small><a href="#/" onclick="visib('econ3350')">Student feedback</a> &bull; <a href="#/" onclick="visib('econ3350des')">Course description</a> &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON3350){:target="_blank"} </small>
 
 <div id="econ3350" style="display: none; text-align: justify"><small>
-<a href="https://drive.google.com/file/d/1NK6_9M03ZvvG7uTTByzUXhuUMnrL7PDS/view?usp=sharing" target="_blank">2023 sem1</a> (<a href="https://drive.google.com/file/d/1NKPsYkAnAFbrB-JlIywwqosaDB0Gqqhe/view?usp=sharing" target="_blank">External</a>) &bull; 2024 sem1
+<a href="https://drive.google.com/file/d/1NK6_9M03ZvvG7uTTByzUXhuUMnrL7PDS/view?usp=sharing" target="_blank">2023 sem1</a> (<a href="https://drive.google.com/file/d/1NKPsYkAnAFbrB-JlIywwqosaDB0Gqqhe/view?usp=sharing" target="_blank">External</a>) &bull; <a href="https://drive.google.com/file/d/1A6h9w_eyKr20OC-tVJGrCMMcslthHDDT/view?usp=sharing" target="_blank">2024 sem1</a>
 </small></div>
 
 <div id="econ3350des" style="display: none; text-align: justify; line-height: 1.1"><small>
