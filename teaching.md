@@ -20,6 +20,18 @@ I am currently an academic tutor (teaching assistant in the US) in the [School o
 The course aims to offer advanced finance and economics students an understanding of the econometric tools that apply to financial and macroeconomic data. The approach is from an applied perspective. Lectures will introduce specific financial and macroeconomic models and the techniques required to estimate/predict/forecast with the model. The course will use a suitable econometric package to analyse the data. Core content includes statistical characteristics of time series data; capital asset pricing models; cointegrated models; volatility and volatility models; models of price changes. Skills and Perspective provided by applications to stock prices, derivatives, exchange rates, interest rates, high-frequency data analysis, and market microstructure.
 </small></div>
 
+- ECON3360 Causal Inference for Microeconometrics
+
+<small><a href="#/" onclick="visib('econ3360')">Student feedback</a> &bull; <a href="#/" onclick="visib('econ3360des')">Course description</a> &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON3360){:target="_blank"} </small>
+
+<div id="econ3360" style="display: none; text-align: justify"><small>
+2024 sem3
+</small></div>
+
+<div id="econ3360des" style="display: none; text-align: justify; line-height: 1.1"><small>
+The purpose of the course is to offer advanced students in Economics, Commerce and Business an understanding of the econometric tools that apply to microeconomic data. The approach is from an applied perspective. Lectures will introduce specific cross-sectional and panel models and the techniques required to estimate/predict with the model. The course will make use of the econometric package, Stata, for purposes of analysing the data. Core content includes the analysis of individual-level data on the economic behaviour of individuals or firms using regression methods for cross-section and panel data. Skills and Perspective provided by applications in the area of labour economics, consumer choice, health and education. Assumed Background: Students are expected to have intermediate knowledge (at least second-year undergraduate) of economic theory and econometrics or statistics and mathematics (see prerequisites).
+</small></div>
+
 - ECON2300 Introductory Econometrics
 
 <small><a href="#/" onclick="visib('econ2300')">Student feedback</a> &bull; <a href="#/" onclick="visib('econ2300des')">Course description</a> &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON2300){:target="_blank"} &bull; [Slides](https://github.com/tavaresgarcia/teaching/tree/main/ECON2300){:target="_blank"} </small>
