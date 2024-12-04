@@ -25,7 +25,7 @@ The course aims to offer advanced finance and economics students an understandin
 <small><a href="#/" onclick="visib('econ3360')">Student feedback</a> &bull; <a href="#/" onclick="visib('econ3360des')">Course description</a> &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON3360){:target="_blank"} </small>
 
 <div id="econ3360" style="display: none; text-align: justify"><small>
-2024 sem3
+<a href="https://drive.google.com/file/d/11c8ROl8WP27j8-F5GgRUnj1xbUsTnP9e/view?usp=sharing" target="_blank">2024 sem2</a>
 </small></div>
 
 <div id="econ3360des" style="display: none; text-align: justify; line-height: 1.1"><small>
@@ -37,7 +37,8 @@ The purpose of the course is to offer advanced students in Economics, Commerce a
 <small><a href="#/" onclick="visib('econ2300')">Student feedback</a> &bull; <a href="#/" onclick="visib('econ2300des')">Course description</a> &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON2300){:target="_blank"} &bull; [Slides](https://github.com/tavaresgarcia/teaching/tree/main/ECON2300){:target="_blank"} </small>
 
 <div id="econ2300" style="display: none; text-align: justify"><small>
-<a href="https://drive.google.com/file/d/1ERU1ecEANj9gOoM3Vi2F9HgC_qNRhSMr/view?usp=sharing" target="_blank">2022 sem1</a> &bull; <a href="https://drive.google.com/file/d/13K_R4wvciqoFEoYVlxiNDahf9kXnfFAw/view?usp=sharing" target="_blank">2022 sem2</a> &bull; <a href="https://drive.google.com/file/d/1NHoV1b-cu38025E5Br4aWiTs8zHiY7DF/view?usp=sharing" target="_blank">2023 sem1</a> &bull; <a href="https://drive.google.com/file/d/185lxbhtXBxamXkks4CGkwv0n4PxG7Zry/view?usp=sharing" target="_blank">2023 sem2</a>
+<a href="https://drive.google.com/file/d/1ERU1ecEANj9gOoM3Vi2F9HgC_qNRhSMr/view?usp=sharing" target="_blank">2022 sem1</a> &bull; <a href="https://drive.google.com/file/d/13K_R4wvciqoFEoYVlxiNDahf9kXnfFAw/view?usp=sharing" target="_blank">2022 sem2</a> &bull; <a href="https://drive.google.com/file/d/1NHoV1b-cu38025E5Br4aWiTs8zHiY7DF/view?usp=sharing" target="_blank">2023 sem1</a> &bull; <a href="https://drive.google.com/file/d/185lxbhtXBxamXkks4CGkwv0n4PxG7Zry/view?usp=sharing" target="_blank">2023 sem2</a> &bull; <a href="https://drive.google.com/file/d/11brPtE-FOCRHx1mKT0tFUz8HNxNrR-Dd/view?usp=sharing" target="_blank">2024 sem2</a>
+  
 </small></div>
 
 <div id="econ2300des" style="display: none; text-align: justify; line-height: 1.1"><small>
