@@ -10,10 +10,15 @@ I am currently an academic tutor (teaching assistant in the US) in the [School o
 
 - ECON3350 Applied Econometrics for Macroeconomics and Finance
 
-<small><a href="#/" onclick="visib('econ3350')">Student feedback</a> &bull; <a href="#/" onclick="visib('econ3350des')">Course description</a> &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON3350){:target="_blank"} &bull; [Slides](https://github.com/tavaresgarcia/teaching/tree/main/ECON3350){:target="_blank"}  </small>
+<small><a href="#/" onclick="visib('econ3350')">Student feedback</a> 
+&bull; <a href="#/" onclick="visib('econ3350des')">Course description</a> 
+&bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON3350){:target="_blank"} 
+&bull; [Slides](https://github.com/tavaresgarcia/teaching/tree/main/ECON3350){:target="_blank"}  </small>
 
 <div id="econ3350" style="display: none; text-align: justify"><small>
-<a href="https://drive.google.com/file/d/1NK6_9M03ZvvG7uTTByzUXhuUMnrL7PDS/view?usp=sharing" target="_blank">2023 sem1</a> (<a href="https://drive.google.com/file/d/1NKPsYkAnAFbrB-JlIywwqosaDB0Gqqhe/view?usp=sharing" target="_blank">External</a>) &bull; <a href="https://drive.google.com/file/d/1A6h9w_eyKr20OC-tVJGrCMMcslthHDDT/view?usp=sharing" target="_blank">2024 sem1</a>
+<a href="https://drive.google.com/file/d/1NK6_9M03ZvvG7uTTByzUXhuUMnrL7PDS/view?usp=sharing" target="_blank">2023 sem1</a> (<a href="https://drive.google.com/file/d/1NKPsYkAnAFbrB-JlIywwqosaDB0Gqqhe/view?usp=sharing" target="_blank">External</a>) 
+  &bull; <a href="https://drive.google.com/file/d/1A6h9w_eyKr20OC-tVJGrCMMcslthHDDT/view?usp=sharing" target="_blank">2024 sem1</a> 
+  &bull; <a href="https://drive.google.com/file/d/1yHZErr7cLXCC2hKmG4yvtSPJpjj_WjFX/view?usp=sharing" target="_blank">2025 sem1</a>
 </small></div>
 
 <div id="econ3350des" style="display: none; text-align: justify; line-height: 1.1"><small>
@@ -30,6 +35,7 @@ The course aims to offer advanced finance and economics students an understandin
 
 <div id="econ3360des" style="display: none; text-align: justify; line-height: 1.1"><small>
 The purpose of the course is to offer advanced students in Economics, Commerce and Business an understanding of the econometric tools that apply to microeconomic data. The approach is from an applied perspective. Lectures will introduce specific cross-sectional and panel models and the techniques required to estimate/predict with the model. The course will make use of the econometric package, Stata, for purposes of analysing the data. Core content includes the analysis of individual-level data on the economic behaviour of individuals or firms using regression methods for cross-section and panel data. Skills and Perspective provided by applications in the area of labour economics, consumer choice, health and education. Assumed Background: Students are expected to have intermediate knowledge (at least second-year undergraduate) of economic theory and econometrics or statistics and mathematics (see prerequisites).
+
 </small></div>
 
 - ECON2300 Introductory Econometrics
@@ -37,7 +43,12 @@ The purpose of the course is to offer advanced students in Economics, Commerce a
 <small><a href="#/" onclick="visib('econ2300')">Student feedback</a> &bull; <a href="#/" onclick="visib('econ2300des')">Course description</a> &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON2300){:target="_blank"} &bull; [Slides](https://github.com/tavaresgarcia/teaching/tree/main/ECON2300){:target="_blank"} </small>
 
 <div id="econ2300" style="display: none; text-align: justify"><small>
-<a href="https://drive.google.com/file/d/1ERU1ecEANj9gOoM3Vi2F9HgC_qNRhSMr/view?usp=sharing" target="_blank">2022 sem1</a> &bull; <a href="https://drive.google.com/file/d/13K_R4wvciqoFEoYVlxiNDahf9kXnfFAw/view?usp=sharing" target="_blank">2022 sem2</a> &bull; <a href="https://drive.google.com/file/d/1NHoV1b-cu38025E5Br4aWiTs8zHiY7DF/view?usp=sharing" target="_blank">2023 sem1</a> &bull; <a href="https://drive.google.com/file/d/185lxbhtXBxamXkks4CGkwv0n4PxG7Zry/view?usp=sharing" target="_blank">2023 sem2</a> &bull; <a href="https://drive.google.com/file/d/11brPtE-FOCRHx1mKT0tFUz8HNxNrR-Dd/view?usp=sharing" target="_blank">2024 sem2</a>
+<a href="https://drive.google.com/file/d/1ERU1ecEANj9gOoM3Vi2F9HgC_qNRhSMr/view?usp=sharing" target="_blank">2022 sem1</a> 
+  &bull; <a href="https://drive.google.com/file/d/13K_R4wvciqoFEoYVlxiNDahf9kXnfFAw/view?usp=sharing" target="_blank">2022 sem2</a> 
+  &bull; <a href="https://drive.google.com/file/d/1NHoV1b-cu38025E5Br4aWiTs8zHiY7DF/view?usp=sharing" target="_blank">2023 sem1</a> 
+  &bull; <a href="https://drive.google.com/file/d/185lxbhtXBxamXkks4CGkwv0n4PxG7Zry/view?usp=sharing" target="_blank">2023 sem2</a> 
+  &bull; <a href="https://drive.google.com/file/d/11brPtE-FOCRHx1mKT0tFUz8HNxNrR-Dd/view?usp=sharing" target="_blank">2024 sem2</a>
+  &bull; <a href="https://drive.google.com/file/d/1D0eBPuz5Md5GbkDHtsCoMCDQb1gquu36/view?usp=sharing" target="_blank">2025 sem1</a>
   
 </small></div>
 
