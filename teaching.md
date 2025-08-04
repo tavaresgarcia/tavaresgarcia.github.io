@@ -99,7 +99,7 @@ In this course, students will learn to analyse microeconomic policies using econ
 <small><a href="#/" onclick="visib('econ1310feed')">Student feedback</a> 
 &bull; <a href="#/" onclick="visib('econ1310des')">Course description</a> 
 &bull; [Course profile](https://my.uq.edu.au/programs-courses/course.html?course_code=ECON1310){:target="_blank"} 
-&bull; [Slides](https://github.com/tavaresgarcia/teaching/tree/main/ECON1310){:target="_blank"} </small>
+<!-- &bull; [Slides](https://github.com/tavaresgarcia/teaching/tree/main/ECON1310){:target="_blank"} </small> -->
 
 <div id="econ1310feed" style="display: none; text-align: justify"><small>
 2022 summer (no survey)
