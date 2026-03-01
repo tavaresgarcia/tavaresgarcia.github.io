@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I am currently an academic tutor (teaching assistant in the US) in the [School of Economics](https://economics.uq.edu.au/) at [The University of Queensland](https://www.uq.edu.au/).
+From 2022 until 2025, I was an academic tutor (teaching assistant in the US) in the [School of Economics](https://economics.uq.edu.au/) at [The University of Queensland](https://www.uq.edu.au/). In my last two years (24 and 25), I proudly received the Teaching Excellence Awards (Tutors), an honour reserved for the top 5% of tutors based on student evaluations.
 
 ### Teaching Assistantships
 
