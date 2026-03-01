@@ -11,5 +11,5 @@ layout: home
   <p><img src="/front photo.jpg"/></p>
 </div>
 
-I am currently a teaching assistant at the [School of Economics](https://economics.uq.edu.au/) and a Bachelor of Mathematics student at [The University of Queensland](https://www.uq.edu.au/) (UQ). 
-I received my Bachelor of Economics in 2023 from UQ and my Bachelor of Computer Science in 2008 from the University of Sao Paulo (USP).
+I am currently working with Model Risk Management at [Macquarie Group](https://www.macquarie.com/).  
+I received my Bachelor of Mathematics and Economics in 2025 from [The University of Queensland](https://www.uq.edu.au/) (UQ), and my Bachelor of Computer Science in 2008 from the [University of São Paulo](https://www5.usp.br/#english) (USP).
