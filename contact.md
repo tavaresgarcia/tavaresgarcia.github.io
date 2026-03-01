@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 ### Email
-[f.tavaresgarcia@uq.edu.au](mailto:f.tavaresgarcia@uq.edu.au)
+[frtavaresgarcia@gmail.com](mailto:frtavaresgarcia@gmail.com)
 
 ### School of Economics
 
